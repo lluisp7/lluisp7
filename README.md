@@ -43,17 +43,12 @@
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <a href="mailto:luisperezutreras@gmail.com">
-    <img alt="Gmail" width="110" height="50" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+    <img alt="Gmail" width="120" height="60" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>
 
   <a href="https://www.linkedin.com/in/luis-p%C3%A9rez-utreras-360899291/">
-    <img alt="LinkedIn" width="150" height="50" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+    <img alt="LinkedIn" width="120" height="60" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
   </a>
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <a href="https://github.com/lluisp7/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lluisp7" alt="Lluís Pérez GitHub Stats" />
-  </a>
-</div>
