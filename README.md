@@ -2,6 +2,7 @@
   <p style="max-width: 300px;">
     <h1> <strong>¡Hola Mundo! Soy Lluís </strong><br> </h1>
     Soy un apasionado de la programación y actualmente estoy estudiando para mejorar mis habilidades. 
+    https://cvexerciciluisperez.netlify.app/
   </p>
 </div>
 
