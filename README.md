@@ -12,7 +12,7 @@
 
   <p> <strong>
     - 💫 Un estudiante de programación de Barcelona 📍.<br>
-    - 💫 Aprendiendo SuiteScript, Freemarker, Kotlin, Swift y C#. 
+    - 💫 Aprendiendo SuiteScript, Freemarker, Kotlin, Swift y C#. <br>
     - 💫 Me quiero especializar tanto en Back-End como Front-end, pero me encanta la ciberseguridad 🔐.<br>
     - 💫 Personalmente, me gustan los videojuegos, películas, series y entrenar en el GYM 💪.
   </strong> </p>
